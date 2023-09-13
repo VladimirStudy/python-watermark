@@ -3,7 +3,7 @@ import time
 import numpy as np
 import functools
 import sys
-
+# комментарий номер 4 в китайской репе
 
 def embedding_info(picname, savename, text):
     text += '#%#'  # As end flag
